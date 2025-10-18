@@ -1,7 +1,8 @@
 name: custome_pop_ups
-description: "A new Flutter plugin project."
+description: A Flutter plugin to show custom popups
 version: 0.0.1
-homepage:
+
+repository: https://github.com/Niranjantk/Flutter_Custome_Plugin
 
 environment:
   sdk: ^3.9.2
